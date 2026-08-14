@@ -2,15 +2,7 @@
 
 A comprehensive data visualization dashboard for analyzing Uber ride-sharing business metrics and performance indicators for the year 2024.
 
-## 🎬 Project Showcase
 
-<p align="center">
-  <img src="Project%20Showcase/Dasboard.gif" alt="Dashboard Demo" width="600">
-</p>
-
-<div align="center">
-  <h3><strong>Don't forget to leave a star ⭐️</strong></h3>
-</div>
 
 ## 📊 Dashboard Overview
 
